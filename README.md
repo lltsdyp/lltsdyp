@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ### 🏆Awards
 <div align="center">
   <img src="https://os.educg.net/img/logo.5daf9029.png" alt="Operating System Design Award" width="167" height="37">
-  <p>Computer System Development Capability Competition-Operating System Design(East China District)-First prize🥇</p>
+  <p>Computer System Development Capability Competition - Operating System Design(East China District) - First prize🥇</p>
 </div>
 
 ### 📞Contact me
