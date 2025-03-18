@@ -30,3 +30,4 @@ You can click the Preview link to take a look at your changes.
 ### 📞Contact me
 [![QQ](https://img.shields.io/badge/QQ-3282F6?logo=tencent-qq&logoColor=white&style=for-the-badge)](https://qm.qq.com/q/ciYLQUnjmU)
 [![Outlook](https://img.shields.io/badge/Outlook-50F6FF?logo-outlook&logoColor=white&style=for-the-badge)](mailto:jizimo0430@outlook.com)
+[![Outlook](https://img.shields.io/badge/Gitee-D41F0F?logo-gitee&logoColor=white&style=for-the-badge)](https://gitee.com/lltsdyp)
