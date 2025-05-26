@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge)
-<!-- ![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=Rust&logoColor=white&style=for-the-badge) -->
+![Rust](https://img.shields.io/badge/Rust-000000.svg?logo=Rust&logoColor=white&style=for-the-badge)
 
 ### 🎯Currently I'm interested in
 - **Compiler**
