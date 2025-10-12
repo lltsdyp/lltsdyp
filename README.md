@@ -1,4 +1,6 @@
-# 👋 Hi, I’m @lltsdyp</br>🎉 You are my ![Visitor Count](https://profile-counter.glitch.me/lltsdyp/count.svg) visitor
+# 👋 Hi, I’m @lltsdyp
+
+![Visitor Count](https://vbr.nathanchung.dev/badge?page_id=lltsdyp&color=aabbcc&style=for-the-badge&logo=Github)
 
 <!---
 lltsdyp/lltsdyp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
