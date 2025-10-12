@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
       <img src="https://github-readme-stats.vercel.app/api?username=lltsdyp&hide_border=true&hide_title=true" alt="GitHub Stats" />
     </td>
     <td valign="top" width="50%" align="center">
-      <b>💻 Programming languages I'm familiar with</b><br><br>
+      <b>💻 Programming languages I'm familiar with</b>
       <img src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
       <img src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white&style=for-the-badge" />
