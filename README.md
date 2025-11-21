@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @lltsdyp
 <br>
-
+<!-- temporarily (I hope so) unavailable
 ![trophy](https://github-profile-trophy.vercel.app/?username=lltsdyp&theme=flat&column=9&no-bg=true)
+-->
 
 <div align="center">
 <table>
