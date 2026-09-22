@@ -1,15 +1,12 @@
-# 👋 Hi, I’m @lltsdyp
+# 👋 Hi, I’m [Zimo Ji](https://lltsdyp.github.io/)
 <br>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lltsdyp&theme=flat&column=9&no-bg=true)
-
 
 <div align="center">
 <table>
   <tr>
     <td valign="top" width="50%" align="center">
       <b>📈 Github Statistics</b>
-      <img src="https://github-readme-stats.vercel.app/api?username=lltsdyp&hide_border=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=lltsdyp&hide_border=true&hide_title=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td valign="top" width="50%" align="center">
       <b>💻 Programming languages I'm familiar with</b><br><br>
