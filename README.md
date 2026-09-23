@@ -24,9 +24,9 @@
 <br>
 
 ### 🎯Currently I'm interested in
-- **Compiler**
-- **Operating System**
-- **Optimization**
+- LLM Inference
+- Heterogeneous Computing
+- Compiler
 
 ### 🏆Awards
 <div align="center">
