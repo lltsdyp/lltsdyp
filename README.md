@@ -24,9 +24,9 @@
 <br>
 
 ### 🎯Currently I'm interested in
-- LLM Inference
-- Heterogeneous Computing
-- Compiler
+- **LLM Inference**
+- **Heterogeneous Computing**
+- **Compiler**
 
 ### 🏆Awards
 <div align="center">
